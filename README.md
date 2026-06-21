@@ -1,5 +1,9 @@
 # Hi, I'm Karthikeyan K
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikeyank-vapt&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyank-vapt&layout=compact)
+
 ## Cybersecurity Enthusiast | Aspiring Penetration Tester | Security Researcher
 
 I have completed my Master of Computer Applications (MCA) and am actively building practical expertise in Cybersecurity, Web Application Security, and Vulnerability Assessment & Penetration Testing (VAPT).
