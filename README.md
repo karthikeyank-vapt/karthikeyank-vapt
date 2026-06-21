@@ -6,9 +6,6 @@
 ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue)
 ![VAPT](https://img.shields.io/badge/Specialization-VAPT-green)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikeyank-vapt&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyank-vapt&layout=compact&theme=tokyonight)
 
 ## Cybersecurity Enthusiast | Aspiring Penetration Tester | Security Researcher
 
