@@ -2,7 +2,7 @@
 
 ## Cybersecurity Enthusiast | Aspiring Penetration Tester | Security Researcher
 
-I am completed the degree course Master of Computer Applications (MCA) while actively building practical expertise in Cybersecurity, Web Application Security, and Vulnerability Assessment & Penetration Testing (VAPT).
+I have completed my Master of Computer Applications (MCA) and am actively building practical expertise in Cybersecurity, Web Application Security, and Vulnerability Assessment & Penetration Testing (VAPT).
 
 Alongside my academic studies, I continuously invest time in hands-on learning through security labs, web application testing, security research, bug bounty programs, and vulnerability disclosure initiatives. My goal is to bridge academic knowledge with real-world security practices and contribute to building more secure applications and systems.
 
