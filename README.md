@@ -67,16 +67,16 @@ I completed my **Master of Computer Applications (MCA)** and am actively buildin
 
 **Security Tooling**
 
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
-![SQLMap](https://img.shields.io/badge/SQLMap-D22128?style=flat-square&logo=sqlite&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-D22128?style=flat-square&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00B4E1?style=flat-square&logo=tenable&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-black?style=flat-square&logo=thc-hydra&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-grey?style=flat-square&logo=go&logoColor=white)
-![ffuf](https://img.shields.io/badge/ffuf-grey?style=flat-square&logo=go&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00B4E1?style=flat-square&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-black?style=flat-square&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-00ADD8?style=flat-square&logoColor=white)
+![ffuf](https://img.shields.io/badge/ffuf-00ADD8?style=flat-square&logoColor=white)
 
 **Languages & Platforms**
 
