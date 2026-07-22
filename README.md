@@ -5,7 +5,6 @@
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-red)
 ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue)
 ![VAPT](https://img.shields.io/badge/Specialization-VAPT-green)
-![Profile Views](https://komarev.com/ghpvc/?username=karthikeyank-vapt&label=Profile%20Views&color=0e75b6&style=flat)
 
 
 ## Cybersecurity Enthusiast | Aspiring Penetration Tester | Security Researcher
