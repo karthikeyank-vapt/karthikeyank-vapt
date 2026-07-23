@@ -1,59 +1,62 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Karthikeyan%20K&fontSize=55&fontColor=00FF9C&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20Aspiring%20Penetration%20Tester%20%7C%20VAPT&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Karthikeyan%20K&fontSize=55&fontColor=00FF9C&fontAlignY=38&desc=Cyber%20Security%20Analyst%20%7C%20Penetration%20Tester%20%7C%20Application%20Security&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/karthikeyank-vapt">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Breaking+things+to+build+them+safer;OWASP+Top+10+%7C+Burp+Suite+%7C+Nmap+%7C+Metasploit;80%2B+TryHackMe+Rooms+%7C+PortSwigger+Academy;Open+to+VAPT+%2F+Security+Analyst+Roles&font=Fira%20Code&center=true&width=650&height=45&color=00FF9C&vCenter=true&size=22&pause=1500&random=false" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Vulnerability+findings+acknowledged+by+NASA+Security;OWASP+Top+10+%7C+API+Security+%7C+VAPT;Burp+Suite+%7C+Nmap+%7C+Metasploit+%7C+Wireshark;Fresher+%7C+Actively+Seeking+AppSec+Roles&font=Fira%20Code&center=true&width=650&height=45&color=00FF9C&vCenter=true&size=21&pause=1500&random=false" alt="Typing SVG" />
 </a>
 
 <br/>
 
+[![Status](https://img.shields.io/static/v1?label=STATUS&message=OPEN+TO+WORK&color=brightgreen&style=for-the-badge)](https://www.linkedin.com/in/karthikeyan-k-1b59b7327)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyan-k-1b59b7327)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikeyanvds@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com)
+[![Location](https://img.shields.io/static/v1?label=LOCATION&message=Coimbatore,+India&color=informational&style=for-the-badge)](https://github.com/karthikeyank-vapt)
 [![Profile Views](https://komarev.com/ghpvc/?username=karthikeyank-vapt&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS)](https://github.com/karthikeyank-vapt)
 
 </div>
 
 <br/>
 
+> 🚀 **Highlight —** Identified and responsibly disclosed **authentication & access control vulnerabilities** on live NASA web applications through the official **NASA Vulnerability Disclosure Program**. Findings were **acknowledged by NASA's security team.**
+
 ## `whoami`
 
 ```yaml
 name: Karthikeyan K
-role: Cybersecurity Enthusiast | Aspiring Penetration Tester | Security Researcher
-education: MCA — P.S.N.A College of Engineering and Technology
-focus: [Web Application Security, VAPT, Vulnerability Research, Security Automation]
-mindset: "Bridging academic knowledge with real-world offensive security practice."
-status: Actively looking for VAPT / SOC / Security Analyst opportunities
+role: Cyber Security Analyst | Penetration Tester | Application Security
+status: Fresher — Actively seeking entry-level Application Security / VAPT / SOC roles
+education: MCA (2024–2026), CGPA 7.3/10 — P.S.N.A College of Engineering and Technology
+focus: [Web Application Security, API Security, VAPT, Vulnerability Research]
+location: Coimbatore, Tamil Nadu, India
 ```
 
-I completed my **Master of Computer Applications (MCA)** and am actively building hands-on expertise in **Cybersecurity, Web Application Security, and Vulnerability Assessment & Penetration Testing (VAPT)**. I invest daily in security labs, web app testing, bug bounty programs, and responsible vulnerability disclosure — with the goal of contributing to safer, more resilient systems.
+MCA graduate with hands-on experience in **Web Application Penetration Testing, API Security Testing, Vulnerability Assessment & Penetration Testing (VAPT)**, and Security Research. Experienced in **OWASP Top 10 assessments, Bug Bounty, Responsible Disclosure**, and Python-based security automation — currently seeking an entry-level Cyber Security, Application Security, or Penetration Testing role.
 
 ---
 
-## 🛡️ Core Focus
+## 🎯 Core Focus
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **Offensive Security**
-- OWASP Top 10 exploitation & defense
-- Authentication / Authorization testing
-- Business logic abuse cases
-- API security testing
+- OWASP Top 10 & OWASP API Top 10 testing
+- Authentication / Authorization (IDOR, JWT abuse)
+- SSRF, CSRF, XXE, business-logic flaws
+- API security testing (REST, JWT)
 - Reconnaissance & enumeration
-- OAuth security assessments
+- OAuth 2.0 security assessments
 
 </td>
 <td width="50%" valign="top">
 
 **Currently**
 - 🔭 Building an OWASP-focused vulnerability scanner
-- 🌱 Deepening skills in Red Teaming & Security Automation
-- 🎯 Working toward OSCP-track hands-on practice
-- 🤝 Open to collaborating on VDP / bug bounty write-ups
+- 🌱 Deepening skills in CVSS scoring & CWE/CVE classification
+- 🎯 Practicing incident response & security monitoring concepts
+- 🤝 Open to VDP / bug bounty collaboration
 
 </td>
 </tr>
@@ -65,27 +68,45 @@ I completed my **Master of Computer Applications (MCA)** and am actively buildin
 
 <div align="center">
 
-**Security Tooling**
+**Penetration Testing**
 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
+![Caido](https://img.shields.io/badge/Caido-6C4EF6?style=flat-square&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
 ![SQLMap](https://img.shields.io/badge/SQLMap-D22128?style=flat-square&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-black?style=flat-square&logoColor=white)
+![ffuf](https://img.shields.io/badge/ffuf-00ADD8?style=flat-square&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-333333?style=flat-square&logoColor=white)
+
+**Network & Monitoring**
+
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-00B4E1?style=flat-square&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-black?style=flat-square&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-00ADD8?style=flat-square&logoColor=white)
-![ffuf](https://img.shields.io/badge/ffuf-00ADD8?style=flat-square&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-86BC25?style=flat-square&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
-**Languages & Platforms**
+**Operating Systems, Languages & Version Control**
 
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Security Domains**
+
+![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square)
+![OWASP API Top 10](https://img.shields.io/badge/OWASP%20API%20Top%2010-000000?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![IDOR](https://img.shields.io/badge/IDOR-8B0000?style=flat-square)
+![SSRF](https://img.shields.io/badge/SSRF-8B0000?style=flat-square)
+![CSRF](https://img.shields.io/badge/CSRF-8B0000?style=flat-square)
+![XXE](https://img.shields.io/badge/XXE-8B0000?style=flat-square)
+![CVSS](https://img.shields.io/badge/CVSS%20Scoring-2c5364?style=flat-square)
+![CWE/CVE](https://img.shields.io/badge/CWE%20%2F%20CVE-2c5364?style=flat-square)
 
 </div>
 
@@ -93,29 +114,70 @@ I completed my **Master of Computer Applications (MCA)** and am actively buildin
 
 ## 🎓 Education
 
-| Degree | Institution |
-|---|---|
-| Master of Computer Applications (MCA) | P.S.N.A College of Engineering and Technology |
-| Bachelor of Computer Science | Vidhyasagar College of Arts and Science |
+| Degree | Institution | Duration | CGPA |
+|---|---|---|---|
+| Master of Computer Applications (MCA) | P.S.N.A College of Engineering and Technology | 2024 – 2026 | 7.3 / 10 |
+| Bachelor of Computer Science (B.Sc.) | Vidhyasagar College of Arts and Science | 2020 – 2023 | 7.0 / 10 |
 
 ---
 
-## 💼 Practical Experience
+## 🔬 Independent Security Research & Bug Bounty
 
-**Vulnerability Disclosure & Security Research**
-- Participated in Vulnerability Disclosure Programs (VDPs) on public-facing applications
-- Conducted responsible security research and coordinated disclosure
-- Received acknowledgements for responsible vulnerability reporting
+*Self-initiated research and responsible disclosure work.*
 
-**Bug Bounty & Application Security Testing**
-- Manual testing of web applications for authN/authZ and business-logic flaws
-- OAuth security assessments and vulnerability validation
-- Impact analysis and reporting aligned with industry standards
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**Hands-On Learning**
-- ✅ 80+ TryHackMe rooms completed
-- ✅ PortSwigger Web Security Academy labs completed
-- ✅ Regular CTF, privilege escalation, and Linux security practice
+**🚀 NASA Vulnerability Disclosure Program**
+*Jan 2025*
+
+Identified and disclosed authentication & access control vulnerabilities on live NASA web applications through comprehensive recon and manual OWASP Top 10 testing.
+
+✅ **Acknowledged by NASA security**
+
+[→ security-research-portfolio](https://github.com/karthikeyank-vapt/security-research-portfolio)
+
+</td>
+<td width="33%" valign="top">
+
+**🔐 OAuth Security Research**
+*Feb 2025*
+
+Discovered an OAuth open-redirect vulnerability affecting authentication workflows in a live production environment via managed bug bounty program.
+
+✅ **Findings reported & validated**
+
+[→ oauth-security-assessment](https://github.com/karthikeyank-vapt/oauth-security-assessment)
+
+</td>
+<td width="33%" valign="top">
+
+**📢 Responsible Disclosure**
+*May 2025*
+
+Identified and disclosed information disclosure vulnerabilities across multiple web applications through coordinated disclosure processes.
+
+✅ **Acknowledged by vendors**
+
+[→ responsible-disclosure-portfolio](https://github.com/karthikeyank-vapt/responsible-disclosure-portfolio)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Platforms**
+
+![HackerOne](https://img.shields.io/badge/HackerOne-000000?style=flat-square&logo=hackerone&logoColor=white)
+![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=flat-square&logoColor=white)
+![Intigriti](https://img.shields.io/badge/Intigriti-1B1F3B?style=flat-square&logoColor=white)
+![PortSwigger Academy](https://img.shields.io/badge/PortSwigger%20Academy-FF6633?style=flat-square&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red)
+![NASA VDP](https://img.shields.io/badge/NASA%20VDP-0B3D91?style=flat-square&logoColor=white)
+
+</div>
 
 ---
 
@@ -125,38 +187,51 @@ I completed my **Master of Computer Applications (MCA)** and am actively buildin
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 OWASP Lite Vulnerability Scanner
-Python-based scanner targeting common OWASP Top 10 vulnerabilities.
+### 🔍 [OWASP Lite Vulnerability Scanner](https://github.com/karthikeyank-vapt/owasp-lite-vulnerability-scanner)
+Python-based automated scanner detecting OWASP Top 10 vulnerabilities including XSS, SQL Injection, and security misconfigurations.
 
-`XSS Detection` `SQL Injection Detection` `Directory Listing Detection` `Modular Architecture` `CLI Interface`
+`Python` `XSS Detection` `SQLi Detection` `Modular CLI`
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Automated Information Gathering Framework
-Modular recon framework built for comprehensive web security assessments.
+### 🌐 Modular Automated Information Gathering Framework
+Python reconnaissance framework: subdomain enumeration, live host detection, endpoint extraction, JS analysis, sensitive file discovery. Multithreaded via `ThreadPoolExecutor` for faster recon.
 
-`Subdomain Enumeration` `Live Host Detection` `Endpoint Discovery` `JS Analysis` `Sensitive File Discovery`
+`Python` `ThreadPoolExecutor` `Linux CLI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [Security Research Portfolio](https://github.com/karthikeyank-vapt/security-research-portfolio)
+Vulnerability assessments, responsible disclosure reports, and web application security testing writeups — including the NASA VDP research.
+
+</td>
+<td width="50%" valign="top">
+
+### 📜 [Cybersecurity Certifications](https://github.com/karthikeyank-vapt/cybersecurity-certifications)
+Collection of certifications, training programs, and professional learning achievements.
 
 </td>
 </tr>
 </table>
 
-> 💡 *Tip: pin these two repos on your profile (Customize your pins → select both) so they show as cards right under your bio.*
-
 ---
 
 ## 🏆 Achievements & Certifications
 
-- 🥇 Final Round Participant — **TCS HackQuest** Cybersecurity Competition
+- 🥇 **TCS HackQuest** Cybersecurity Competition — Final Round Qualifier
 - 🎯 80+ **TryHackMe** Labs completed
 - 🎯 **PortSwigger Web Security Academy** Labs completed
-- 📜 Certified Network Security Practitioner (**CNSP**)
-- 📜 Ethical Hacking & Pentest Mastery
-- 📜 Security Analyst Certificate Program (**NSDC**)
-- 📜 Penetration Testing with Metasploit
-- 📜 SQL Injection Attacks — **EC-Council**
-- 📜 Python Programming Certification — **IIT Bombay**
+- 📜 Certified LLM Security Professional (**CLLMSP**) — Red Team Leaders
+- 📜 Certified Network Security Practitioner (**CNSP**) — The SecOps Group
+- 📜 SQL Injection Attacks — EC-Council
+- 📜 Penetration Testing with Metasploit — LinkedIn Learning
+- 📜 Security Analyst Certificate Program — Skill India (NSDC)
+- 📜 Python Programming Certification — IIT Bombay
+- 📜 Ethical Hacking & Pentest Mastery — Udemy
 
 ---
 
@@ -172,8 +247,6 @@ Modular recon framework built for comprehensive web security assessments.
 <img src="https://github-profile-trophy.vercel.app/?username=karthikeyank-vapt&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10" />
 
 </div>
-
-> ⚠️ Stats will look sparse until this account has more public activity — commit history, starred repos, and a few active projects will fill these cards in fast.
 
 ---
 
