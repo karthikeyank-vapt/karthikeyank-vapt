@@ -18,12 +18,6 @@
 
 <br/>
 
-<div align="center">
-<img src="terminal-banner.svg" width="100%"/>
-</div>
-
-<br/>
-
 > 🚀 **Highlight —** Identified and responsibly disclosed **authentication & access control vulnerabilities** on live NASA web applications through the official **NASA Vulnerability Disclosure Program**. Findings were **acknowledged by NASA's security team.**
 
 ## `whoami`
@@ -241,14 +235,14 @@ Collection of certifications, training programs, and professional learning achie
 
 ---
 
-## 👻 Contribution Graph
+## 🚀 Contribution Graph
 
 <div align="center">
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karthikeyank-vapt/karthikeyank-vapt/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karthikeyank-vapt/karthikeyank-vapt/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karthikeyank-vapt/karthikeyank-vapt/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karthikeyank-vapt/karthikeyank-vapt/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karthikeyank-vapt/karthikeyank-vapt/output/galaga-contribution-graph.svg">
+    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/karthikeyank-vapt/karthikeyank-vapt/output/galaga-contribution-graph.svg">
 </picture>
 
 </div>
